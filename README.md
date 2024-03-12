@@ -1,2 +1,2 @@
 # azure-static-site-terraform
-Deploying an Azure static website using Terraform
+Deploying Azure static website using Terraform
